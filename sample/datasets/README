@@ -1,0 +1,4 @@
+The "Digits" data sets were downloaded from www.kaggle.com.
+There was some minor pre-processing on them to adjust to the current limitations of CSVDataSet (i.e. class column must be the last column and class must be numeric from 1~k).
+
+AND, OR and XOR are the binary operations. This is meant just as a sample on how to use the lib, rather than an useful application.
